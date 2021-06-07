@@ -1,0 +1,74 @@
+<! DOCTYPE html >
+< html  lang = " pt-br " >
+< head >
+< meta  charset = " utf-8 " >
+< title > Sabor Ardente - Layout </ title >
+< link  href = " css / estilo.css " rel = " stylesheet " >
+
+</ head >
+< body >
+	< seção >
+		< head >
+			< div  class = " titulo " >Pitzzaria  < img  src = " img / logo.png " alt = " Logo " title = " Logo " width = " 25% " height = " 25% " /> </ div >
+		</ header >
+		
+		< nav >
+			< div  class = " menu " style = " padding-left: 5%; " >
+			< Br >
+				< Uma > "No nosso restaurante,existem todos os tipos de comida para qualquer ocasião" </ a >				
+			</ div >		
+		</ nav >
+		
+		< aparte >
+			< div  style = " padding-left: 4%; " >
+			< h2  style = " color: white " > DESTAQUES </ h2 >						
+			< table  class = " tabelas " >
+				< tr >
+					< td  class = " top " > < img  src = " img / primeira.png " alt = " destaque1 " title = " destaque1 " width = " 100% " /> </ td >
+				</ tr >
+				< tr >
+					< td > < img  src = " img / segunda.png " alt = " destaque2 " title = " destaque2 " width = " 100% " /> </ td >
+				</ tr >
+				< tr >
+					< td > < img  src = " img / terceira.png " alt = " destaque3 " title = " destaque3 " largura = " 100% " /> </ td >
+				</ tr >
+				< tr >
+					< td > < img  src = " img / quarta.png " alt = " destaque4 " title = " destaque4 " largura = " 100% " /> </ td >
+				</ tr >
+							
+			</ mesa >
+			</ div >
+		
+		</ aparte >
+		
+		< principal >
+			< h2  style = " margin-left: 2%; color: # 4d0000; " > Quem somos? </ h2 >
+			
+			< div  class = " conteudo " >  </ div >
+			< div  style = " text-align: center " > </ div >
+			< img  src = " img / somos.png " alt = " # " title = " # " width = " 75% " style = " padding-left: 15% " />
+			
+		</ main >
+		
+		< principal >
+			< h2  style = " margin-left: 2%; color: # 4d0000; " > Esse restaurante é conhecido como,um dos melhores lugares para se passar uma noite com a família  :) </ h2 >
+			< div  class = " conteudo " > ✔️ Esta loja tem nosso selo Super pelo alto nível de qualidade e serviço. ✔️ Um dos mais pedidos da região. ✔️Entrega no tempo prometido. ✔️Muitas avaliações 5 estrelas </ div >
+			< div  style = " text-align: center " ; >
+			</ div >
+		</ main >
+		
+		< principal >
+		< h2  style = " margin-left: 2%; margin-top: 2%; color: # 4d0000; " > Localização </ h2 >
+			< img  src = " img / localização.png " alt = " # " title = " # " width = " 75% " style = " padding-left: 15% " />
+			< div  style = " text-align: center " ; />
+		</ main >
+		
+		< rodapé >
+			< p  style = " color: #ffffff; margin-right: 5px; font-size: 15px; font-weight: 750; " > Informações de contato </ p >
+			< p  style = " color: #ffffff; margin-right: 5px; font-size: 15px; font-weight: 750; " > Siga nós no intagram: @panificadorasantabranca </ p >
+			< p  style = " color: #ffffff; margin-right: 5px; font-size: 15px; font-weight: 750; " > WhatsApp: 11. 97509-6150 </ p >
+		
+		</ rodapé >
+	</ seção >
+</ body >
+</ html >
